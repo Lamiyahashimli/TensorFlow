@@ -1,1 +1,11 @@
 # TensorFlow
+sifir true
+bir false
+iki true
+uc true
+dord true
+bes true
+alti false
+yedi true
+sekkiz true
+doqquz false
